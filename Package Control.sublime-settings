@@ -1,5 +1,16 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"All Autocomplete",
+		"Babel",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"SCSS",
+		"SublimeLinter"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
